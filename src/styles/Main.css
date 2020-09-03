@@ -1,0 +1,15 @@
+.form-control {
+  height: 30px;
+  width: 200px;
+  margin: 10px;
+}
+
+.form-group {
+  display: inline;
+}
+.search {
+  display: inline;
+}
+.btn-success {
+  background-color: chocolate;
+}
